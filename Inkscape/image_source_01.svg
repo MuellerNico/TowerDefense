@@ -1,0 +1,1662 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="image_source_01.svg"
+   inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\crossbow_ld.png"
+   inkscape:export-xdpi="181"
+   inkscape:export-ydpi="181">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="151.47394"
+     inkscape:cy="818.26574"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showborder="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227"
+       id="rect4136"
+       width="60.714287"
+       height="60.714287"
+       x="-184.22952"
+       y="-223.85718"
+       inkscape:export-xdpi="296.47055"
+       inkscape:export-ydpi="296.47055"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\def01.png" />
+    <rect
+       y="-177.42856"
+       x="-172.97951"
+       height="14.285715"
+       width="38.214287"
+       id="rect4138"
+       style="opacity:1;fill:#e9c6af;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227"
+       inkscape:export-xdpi="296.47055"
+       inkscape:export-ydpi="296.47055"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\def01.png" />
+    <rect
+       y="-109.07027"
+       x="-184.63223"
+       height="60.714287"
+       width="60.714287"
+       id="rect4140"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-xdpi="296.47055"
+       inkscape:export-ydpi="296.47055"
+       inkscape:export-filename="D:\Programming\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\att01.png" />
+    <rect
+       style="opacity:1;fill:#a02c2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227"
+       id="rect4142"
+       width="38.214287"
+       height="14.285715"
+       x="-173.38223"
+       y="-62.641685"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-xdpi="296.47055"
+       inkscape:export-ydpi="296.47055"
+       inkscape:export-filename="D:\Programming\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\att01.png" />
+    <g
+       style="opacity:0.65"
+       transform="matrix(0.63440599,0,0,0.49789519,-61.24291,403.22708)"
+       id="g4879"
+       inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\arrow01.png"
+       inkscape:export-xdpi="469.70126"
+       inkscape:export-ydpi="469.70126">
+      <path
+         style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 403.94244,-287.40076 -2.55358,2.33573 0.58737,-1.80837 1.99631,-1.80244 z"
+         id="path4881"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4883"
+         d="m 404.88864,-287.40076 2.63029,2.42412 -0.8343,-1.99051 -1.82636,-1.70869 z"
+         style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       style="opacity:0.65"
+       transform="matrix(0.63440599,0,0,0.49789519,-61.24291,403.40311)"
+       id="g4885"
+       inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\arrow01.png"
+       inkscape:export-xdpi="469.70126"
+       inkscape:export-ydpi="469.70126">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4887"
+         d="m 403.67199,-289.16983 -2.12087,2.18105 0.44778,-1.74586 1.7009,-1.71026 z"
+         style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 405.15048,-289.16983 2.1399,2.18105 -0.75312,-1.99318 -1.41489,-1.46294 z"
+         id="path4889"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       style="opacity:0.65"
+       transform="matrix(0.63440599,0,0,0.49789519,-61.24291,403.61215)"
+       id="g4891"
+       inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\arrow01.png"
+       inkscape:export-xdpi="469.70126"
+       inkscape:export-ydpi="469.70126">
+      <path
+         style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 403.88508,-291.13058 -2.39803,2.09266 0.48415,-1.69252 1.94735,-1.67522 z"
+         id="path4893"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4895"
+         d="m 404.9374,-291.13058 2.19608,1.96008 -0.4748,-1.74319 -1.75506,-1.49197 z"
+         style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       style="opacity:0.65"
+       id="g4897"
+       transform="matrix(0.63440599,0,0,0.49789519,-61.24291,402.81863)"
+       inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\arrow01.png"
+       inkscape:export-xdpi="469.70126"
+       inkscape:export-ydpi="469.70126">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4899"
+         d="m 403.88508,-291.13058 -2.39803,2.09266 0.48415,-1.69252 1.94735,-1.67522 z"
+         style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 404.9374,-291.13058 2.19608,1.96008 -0.4748,-1.74319 -1.75506,-1.49197 z"
+         id="path4901"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       y="235.60797"
+       x="194.5596"
+       height="26.580912"
+       width="1.4654634"
+       id="rect4903"
+       style="opacity:1;fill:#be9555;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\arrow01.png"
+       inkscape:export-xdpi="469.70126"
+       inkscape:export-ydpi="469.70126" />
+    <g
+       transform="matrix(0.83917223,0,0,0.66445509,-144.06141,459.27118)"
+       style="fill:#b3b3b3;fill-opacity:1"
+       id="g4905"
+       inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\arrow01.png"
+       inkscape:export-xdpi="469.70126"
+       inkscape:export-ydpi="469.70126">
+      <rect
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4907"
+         width="2.4748738"
+         height="1.7235727"
+         x="403.13925"
+         y="-337.14682" />
+      <path
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 404.3988,-344.66611 c 0.41911,2.12269 2.61753,6.53621 1.22131,7.53034 -1.39622,0.99413 -0.9466,0.99479 -2.48597,-0.004 -1.53937,-0.99879 0.83492,-5.40616 1.26466,-7.52634 z"
+         id="path4909"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="czzc" />
+    </g>
+    <g
+       transform="matrix(0.83917223,0,0,0.66445509,-144.06141,459.27118)"
+       style="fill:#999999"
+       id="g4911"
+       inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\arrow01.png"
+       inkscape:export-xdpi="469.70126"
+       inkscape:export-ydpi="469.70126">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4913"
+         d="m 404.42832,-337.14682 1.18581,0 0,1.72357 -1.18581,0 z"
+         style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cscc"
+         inkscape:connector-curvature="0"
+         id="path4915"
+         d="m 404.3988,-344.66611 c 0.41911,2.12269 2.62874,6.45029 1.22131,7.53034 0,0 -0.93476,0.0114 -1.1893,0.011 z"
+         style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227"
+       id="rect4327"
+       width="108.844"
+       height="108.844"
+       x="110.29057"
+       y="-258.15869"
+       inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\crossbow_loaded_ld.png"
+       inkscape:export-xdpi="180.99829"
+       inkscape:export-ydpi="180.99829"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <g
+       id="g4810"
+       transform="matrix(0,0.66030141,-0.66030141,0,211.0732,-54.592986)"
+       inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\crossbow_loaded_ld.png"
+       inkscape:export-xdpi="180.99829"
+       inkscape:export-ydpi="180.99829">
+      <path
+         style="opacity:1;fill:#b48048;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 325.04969,-35.17265 7.10827,0 7.10827,0 0,89.01068 -0.972,6.19933 -6.13627,0 -6.17531,0 -0.93296,-6.19933 z"
+         id="path4612"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449"
+         inkscape:export-ydpi="449" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4614"
+         d="m 328.24495,-56.1668 7.88886,0 2.49775,12.35497 -12.9472,0 z"
+         style="opacity:1;fill:#926f49;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-ydpi="449.20001" />
+      <g
+         id="g4616"
+         transform="matrix(1.3055922,0,0,1.3055922,-25.63174,-95.46027)"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-ydpi="449.20001">
+        <g
+           id="g4618"
+           transform="translate(0,2.3499715)">
+          <path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             d="m 273.22166,16.157334 c -7.01094,0.172069 -11.22592,3.265351 -11.22592,3.265351 l -0.45684,0.226783 8.32634,11.58923 3.80506,0.06711 0.0148,0 4.91199,-0.02192 8.99081,-11.537458 -0.4322,-0.23993 c -4.84688,-2.693366 -9.72746,-3.452404 -13.93404,-3.349163 z m 0.0164,0.839756 c 3.94546,-0.09645 8.50129,0.64087 13.04333,3.045141 l -8.10504,10.238117 -4.51266,0.184057 -3.39518,-0.100246 -7.41825,-10.382732 c 0.7753,-0.363725 4.18243,-2.832641 10.3878,-2.984337 z"
+             id="path4620"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccccccccsccccc" />
+          <path
+             sodipodi:nodetypes="cccccccccccscccccs"
+             inkscape:connector-curvature="0"
+             id="path4622"
+             d="m 273.3165,16.692408 c -6.51536,0.159906 -10.4324,3.034536 -10.4324,3.034536 l -0.42455,0.210752 7.71704,10.728544 3.55684,0.10385 0.0138,0 4.56478,-0.186318 8.35529,-10.55597 -0.40165,-0.22297 c -4.50427,-2.502982 -9.03986,-3.208367 -12.94909,-3.112424 z m 0.0152,0.780397 c 3.66657,-0.08963 7.90037,0.595569 12.12135,2.829892 l -7.53213,9.514422 -4.19367,0.171047 -3.15519,-0.09316 -6.89388,-9.648815 c 0.72049,-0.338015 3.88679,-2.632413 9.65352,-2.773386 z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        </g>
+        <rect
+           style="opacity:1;fill:#ff0000;fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4624"
+           width="5.1972675"
+           height="7.7959018"
+           x="299.34238"
+           y="77.890007" />
+      </g>
+      <path
+         style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 328.15313,-32.84913 7.75416,0 0,87.38085 -7.75416,0 z"
+         id="path4626"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449"
+         inkscape:export-ydpi="449" />
+      <path
+         style="opacity:1;fill:#444444;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 329.05069,-31.86182 5.95903,0 0,85.40625 -5.95903,0 z"
+         id="path4628"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449"
+         inkscape:export-ydpi="449" />
+      <path
+         style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 329.55844,-31.35409 4.94356,0 0,84.39079 -4.94356,0 z"
+         id="path4630"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449"
+         inkscape:export-ydpi="449" />
+      <rect
+         y="-99.61261"
+         x="230.09825"
+         height="1.4216537"
+         width="88.684143"
+         id="rect4632"
+         style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-ydpi="449.20001"
+         inkscape:transform-center-x="-47.980568"
+         transform="matrix(0.92492664,0.38014564,-0.38014564,0.92492664,0,0)"
+         inkscape:transform-center-y="19.720059" />
+      <rect
+         inkscape:transform-center-x="47.98624"
+         inkscape:export-ydpi="449.20001"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4634"
+         width="88.684143"
+         height="1.4216539"
+         x="-384.17065"
+         y="152.72379"
+         transform="matrix(-0.92503599,0.37987948,0.37987948,0.92503599,0,0)"
+         inkscape:transform-center-y="19.706248" />
+      <path
+         sodipodi:nodetypes="sssssssssss"
+         inkscape:connector-curvature="0"
+         id="path4636"
+         d="m 414.60642,-3.53528 c 0,6.72934 -5.43396,-12.0753 -20.86874,-22.58739 -7.71739,-5.25603 -17.22415,-10.57141 -27.74564,-11.72947 -10.5215,-1.15806 -22.05772,1.84119 -33.83407,1.84119 -11.77632,0 -23.37604,-2.93578 -33.96099,-1.71426 -10.58497,1.22153 -20.1552,6.60037 -27.87259,11.85641 -15.43477,10.51207 -20.61486,29.06286 -20.61486,22.33352 0,-6.72933 6.7033,-22.34638 22.13806,-31.43431 15.43479,-9.08793 36.75772,-11.64672 60.31038,-11.64672 23.55267,0 44.87562,2.55879 60.31038,11.64672 15.43477,9.08793 22.13807,24.70498 22.13807,31.43431 z"
+         style="opacity:1;fill:#575757;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-ydpi="449.20001" />
+      <path
+         style="opacity:1;fill:#b48048;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 325.04969,-48.33501 14.21654,0 0,13.53545 -14.21654,0 z"
+         id="path4638"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-ydpi="449.20001" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4640"
+         d="m 328.15313,-43.183 7.75416,0 0,14.34514 -7.75416,0 z"
+         style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-ydpi="449.20001" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4642"
+         d="m 329.05069,-42.1957 5.95903,0 0,13.36457 -5.95903,0 z"
+         style="opacity:1;fill:#444444;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-ydpi="449.20001" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4644"
+         d="m 329.564,-41.68795 4.94356,0.0263 0,12.83051 -4.94356,0 z"
+         style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-ydpi="449.20001" />
+      <path
+         style="opacity:1;fill:#926f49;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 325.99259,60.03632 c 1.31147,7.61516 1.52313,15.06801 0,22.0995 l 12.33117,0 c -1.69649,-6.96126 -1.19114,-14.44965 0,-22.0995 l -12.33117,0 z m 5.15903,14.14991 2.0131,0 0,5.26734 -2.0131,0 0,-5.26734 z"
+         id="path4646"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449"
+         inkscape:export-ydpi="449" />
+      <rect
+         inkscape:export-ydpi="449.20001"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         style="opacity:1;fill:#b48048;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4648"
+         width="12.439471"
+         height="5.2601981"
+         x="325.93823"
+         y="82.134796" />
+      <rect
+         y="81.823807"
+         x="325.93823"
+         height="1.1729435"
+         width="12.439471"
+         id="rect4650"
+         style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-ydpi="449.20001" />
+      <rect
+         inkscape:export-ydpi="449.20001"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4652"
+         width="12.298106"
+         height="1.2617968"
+         x="326.00888"
+         y="59.654877" />
+      <g
+         id="g4654"
+         transform="matrix(0.85003006,0,0,0.85003006,198.99399,71.43994)"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449"
+         inkscape:export-ydpi="449">
+        <rect
+           inkscape:export-ydpi="449.20001"
+           inkscape:export-xdpi="449.20001"
+           inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\crossbow_01.png"
+           y="-52.395821"
+           x="154.26872"
+           height="4.7038355"
+           width="5.0174246"
+           id="rect4656"
+           style="opacity:1;fill:#5f4b2e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#846442;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4658"
+           width="2.9373367"
+           height="2.7537529"
+           x="155.30876"
+           y="-51.42078"
+           inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\crossbow_01.png"
+           inkscape:export-xdpi="449.20001"
+           inkscape:export-ydpi="449.20001" />
+      </g>
+      <g
+         transform="translate(-72.32993,309.50085)"
+         id="g4660"
+         style="opacity:0.65">
+        <path
+           style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 403.94244,-287.40076 -2.55358,2.33573 0.58737,-1.80837 1.99631,-1.80244 z"
+           id="path4662"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4664"
+           d="m 404.88864,-287.40076 2.63029,2.42412 -0.8343,-1.99051 -1.82636,-1.70869 z"
+           style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         transform="translate(-72.32993,309.85441)"
+         id="g4666"
+         style="opacity:0.65">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4668"
+           d="m 403.67199,-289.16983 -2.12087,2.18105 0.44778,-1.74586 1.7009,-1.71026 z"
+           style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 405.15048,-289.16983 2.1399,2.18105 -0.75312,-1.99318 -1.41489,-1.46294 z"
+           id="path4670"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         transform="translate(-72.32993,310.27425)"
+         id="g4672"
+         style="opacity:0.65">
+        <path
+           style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 403.88508,-291.13058 -2.39803,2.09266 0.48415,-1.69252 1.94735,-1.67522 z"
+           id="path4674"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4676"
+           d="m 404.9374,-291.13058 2.19608,1.96008 -0.4748,-1.74319 -1.75506,-1.49197 z"
+           style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         id="g4678"
+         transform="translate(-72.32993,308.6805)"
+         style="opacity:0.65">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4680"
+           d="m 403.88508,-291.13058 -2.39803,2.09266 0.48415,-1.69252 1.94735,-1.67522 z"
+           style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 404.9374,-291.13058 2.19608,1.96008 -0.4748,-1.74319 -1.75506,-1.49197 z"
+           id="path4682"
+           inkscape:connector-curvature="0" />
+      </g>
+      <rect
+         y="-27.154572"
+         x="331.18799"
+         height="53.386562"
+         width="1.7463202"
+         id="rect4684"
+         style="opacity:1;fill:#be9555;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="translate(-72.32993,309.85441)"
+         style="fill:#b3b3b3;fill-opacity:1"
+         id="g4686">
+        <rect
+           style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4688"
+           width="2.4748738"
+           height="1.7235727"
+           x="403.13925"
+           y="-337.14682" />
+        <path
+           style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 404.3988,-344.66611 c 0.41911,2.12269 2.61753,6.53621 1.22131,7.53034 -1.39622,0.99413 -0.9466,0.99479 -2.48597,-0.004 -1.53937,-0.99879 0.83492,-5.40616 1.26466,-7.52634 z"
+           id="path4690"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="czzc" />
+      </g>
+      <g
+         transform="translate(-72.32993,309.85441)"
+         style="fill:#999999"
+         id="g4692">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4694"
+           d="m 404.42832,-337.14682 1.18581,0 0,1.72357 -1.18581,0 z"
+           style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cscc"
+           inkscape:connector-curvature="0"
+           id="path4696"
+           d="m 404.3988,-344.66611 c 0.41911,2.12269 2.62874,6.45029 1.22131,7.53034 0,0 -0.93476,0.0114 -1.1893,0.011 z"
+           style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0,0.16333942,-0.16333942,0,188.21502,213.84044)"
+       id="g4393"
+       inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\crossbow_ld.png"
+       inkscape:export-xdpi="181.0609"
+       inkscape:export-ydpi="181.0609">
+      <rect
+         inkscape:export-ydpi="452.65225"
+         inkscape:export-xdpi="452.65225"
+         inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\crossbow_loaded_hd.png"
+         y="20.219355"
+         x="43.214287"
+         height="198.82812"
+         width="198.82812"
+         id="rect4327-9"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227" />
+      <path
+         style="opacity:1;fill:#b48048;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 134.08879,63.806749 8.57392,0 8.57392,0 0,107.363751 -1.17241,7.47756 -7.40151,0 -7.44859,0 -1.12533,-7.47756 z"
+         id="path4612-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449"
+         inkscape:export-ydpi="449" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4614-9"
+         d="m 137.94288,38.483826 9.51546,0 3.01276,14.902435 -15.61677,0 z"
+         style="opacity:1;fill:#926f49;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-ydpi="449.20001" />
+      <g
+         id="g4616-3"
+         transform="matrix(1.5747916,0,0,1.5747916,-288.89947,-8.9115453)"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-ydpi="449.20001">
+        <g
+           id="g4618-9"
+           transform="translate(0,2.3499715)">
+          <path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             d="m 273.22166,16.157334 c -7.01094,0.172069 -11.22592,3.265351 -11.22592,3.265351 l -0.45684,0.226783 8.32634,11.58923 3.80506,0.06711 0.0148,0 4.91199,-0.02192 8.99081,-11.537458 -0.4322,-0.23993 c -4.84688,-2.693366 -9.72746,-3.452404 -13.93404,-3.349163 z m 0.0164,0.839756 c 3.94546,-0.09645 8.50129,0.64087 13.04333,3.045141 l -8.10504,10.238117 -4.51266,0.184057 -3.39518,-0.100246 -7.41825,-10.382732 c 0.7753,-0.363725 4.18243,-2.832641 10.3878,-2.984337 z"
+             id="path4620-7"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccccccccsccccc" />
+          <path
+             sodipodi:nodetypes="cccccccccccscccccs"
+             inkscape:connector-curvature="0"
+             id="path4622-8"
+             d="m 273.3165,16.692408 c -6.51536,0.159906 -10.4324,3.034536 -10.4324,3.034536 l -0.42455,0.210752 7.71704,10.728544 3.55684,0.10385 0.0138,0 4.56478,-0.186318 8.35529,-10.55597 -0.40165,-0.22297 c -4.50427,-2.502982 -9.03986,-3.208367 -12.94909,-3.112424 z m 0.0152,0.780397 c 3.66657,-0.08963 7.90037,0.595569 12.12135,2.829892 l -7.53213,9.514422 -4.19367,0.171047 -3.15519,-0.09316 -6.89388,-9.648815 c 0.72049,-0.338015 3.88679,-2.632413 9.65352,-2.773386 z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        </g>
+        <rect
+           style="opacity:1;fill:#ff0000;fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4624-9"
+           width="5.1972675"
+           height="7.7959018"
+           x="299.34238"
+           y="77.890007" />
+      </g>
+      <path
+         style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 137.83213,66.609354 9.35299,0 0,105.397866 -9.35299,0 z"
+         id="path4626-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449"
+         inkscape:export-ydpi="449" />
+      <path
+         style="opacity:1;fill:#444444;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 138.91476,67.800237 7.18772,0 0,103.016123 -7.18772,0 z"
+         id="path4628-4"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449"
+         inkscape:export-ydpi="449" />
+      <path
+         style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 139.5272,68.412656 5.96287,0 0,101.791284 -5.96287,0 z"
+         id="path4630-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449"
+         inkscape:export-ydpi="449" />
+      <rect
+         y="76.175789"
+         x="79.310486"
+         height="1.7147838"
+         width="106.96988"
+         id="rect4632-1"
+         style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-ydpi="449.20001"
+         inkscape:transform-center-x="-47.980568"
+         transform="matrix(0.92492664,0.38014564,-0.38014564,0.92492664,0,0)"
+         inkscape:transform-center-y="19.720059" />
+      <rect
+         inkscape:transform-center-x="47.98624"
+         inkscape:export-ydpi="449.20001"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4634-2"
+         width="106.96988"
+         height="1.714784"
+         x="-184.38408"
+         y="184.47957"
+         transform="matrix(-0.92503599,0.37987948,0.37987948,0.92503599,0,0)"
+         inkscape:transform-center-y="19.706248" />
+      <path
+         sodipodi:nodetypes="sssssssssss"
+         inkscape:connector-curvature="0"
+         id="path4636-3"
+         d="m 242.11118,101.96741 c 0,8.11686 -6.55439,-14.565098 -25.17165,-27.24467 -9.30864,-6.339768 -20.77559,-12.751124 -33.4665,-14.147964 -12.69093,-1.39684 -26.60579,2.220824 -40.8103,2.220824 -14.20448,0 -28.19594,-3.541107 -40.96339,-2.067722 -12.767483,1.473396 -24.310994,7.961297 -33.619629,14.301077 -18.617258,12.679549 -24.865428,35.055315 -24.865428,26.938455 0,-8.116845 8.08545,-26.953967 26.702696,-37.915732 18.617281,-10.961766 44.336771,-14.048152 72.745751,-14.048152 28.40898,0 54.1285,3.086386 72.74574,14.048152 18.61726,10.961765 26.70271,29.798887 26.70271,37.915732 z"
+         style="opacity:1;fill:#575757;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-ydpi="449.20001" />
+      <path
+         style="opacity:1;fill:#b48048;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 134.08879,47.930448 17.14784,0 0,16.326318 -17.14784,0 z"
+         id="path4638-9"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-ydpi="449.20001" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4640-0"
+         d="m 137.83213,54.144749 9.35299,0 0,17.302957 -9.35299,0 z"
+         style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-ydpi="449.20001" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4642-0"
+         d="m 138.91476,55.33562 7.18772,0 0,16.120204 -7.18772,0 z"
+         style="opacity:1;fill:#444444;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-ydpi="449.20001" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4644-6"
+         d="m 139.53391,55.948062 5.96287,0.03172 0,15.476027 -5.96287,0 z"
+         style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-ydpi="449.20001" />
+      <path
+         style="opacity:1;fill:#926f49;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 135.22611,178.64681 c 1.58188,9.18532 1.83718,18.17487 0,26.65618 l 14.87373,0 c -2.04629,-8.3966 -1.43674,-17.42901 0,-26.65618 l -14.87373,0 z m 6.22277,17.06747 2.42818,0 0,6.35341 -2.42818,0 0,-6.35341 z"
+         id="path4646-9"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449"
+         inkscape:export-ydpi="449" />
+      <rect
+         inkscape:export-ydpi="449.20001"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         style="opacity:1;fill:#b48048;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4648-1"
+         width="15.004359"
+         height="6.3447957"
+         x="135.16054"
+         y="205.30176" />
+      <rect
+         y="204.92665"
+         x="135.16054"
+         height="1.4147921"
+         width="15.004359"
+         id="rect4650-4"
+         style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-ydpi="449.20001" />
+      <rect
+         inkscape:export-ydpi="449.20001"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4652-1"
+         width="14.833846"
+         height="1.5219661"
+         x="135.24576"
+         y="178.18672" />
+      <g
+         id="g4654-3"
+         transform="matrix(1.0252973,0,0,1.0252973,-17.958269,192.40174)"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:export-xdpi="449"
+         inkscape:export-ydpi="449">
+        <rect
+           inkscape:export-ydpi="449.20001"
+           inkscape:export-xdpi="449.20001"
+           inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\crossbow_01.png"
+           y="-52.395821"
+           x="154.26872"
+           height="4.7038355"
+           width="5.0174246"
+           id="rect4656-3"
+           style="opacity:1;fill:#5f4b2e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#846442;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4658-0"
+           width="2.9373367"
+           height="2.7537529"
+           x="155.30876"
+           y="-51.42078"
+           inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\crossbow_01.png"
+           inkscape:export-xdpi="449.20001"
+           inkscape:export-ydpi="449.20001" />
+      </g>
+    </g>
+    <g
+       id="g4359">
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227"
+         id="rect4681"
+         width="33.942345"
+         height="28.820984"
+         x="230.23236"
+         y="-235.41837"
+         inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\crossbow_loaded_hd.png"
+         inkscape:export-xdpi="452.65225"
+         inkscape:export-ydpi="452.65225" />
+      <path
+         inkscape:export-ydpi="449"
+         inkscape:export-xdpi="449"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path4683"
+         d="m 229.64929,245.53017 0,1.67923 0,1.67923 -22.11664,0 0,-3.35846 z"
+         style="opacity:1;fill:#b48048;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="449.20001"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         sodipodi:nodetypes="ccccc"
+         style="opacity:1;fill:#926f49;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 233.31996,246.28501 0,1.86363 -2.16017,0.59006 0,-3.05859 z"
+         id="path4685"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="449"
+         inkscape:export-xdpi="449"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4697"
+         d="m 229.24305,246.26332 0,1.83181 -15.27788,0 0,-1.83181 z"
+         style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect4703"
+         d="m 223.97299,230.58694 -5.33073,16.89012 -0.59618,-0.23321 5.33072,-16.89013 z"
+         inkscape:transform-center-y="19.720063"
+         inkscape:transform-center-x="-43.391928"
+         style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect4705"
+         d="m 223.99888,263.81369 -5.32699,-16.89212 -0.54445,0.23314 5.32699,16.89212 z"
+         inkscape:transform-center-y="19.706255"
+         inkscape:transform-center-x="43.397075"
+         style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="449.20001"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         style="opacity:1;fill:#575757;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 222.74672,264.18644 c -1.44219,0 2.58791,-1.11891 4.84079,-4.2971 1.12644,-1.58909 2.2656,-3.54664 2.51379,-5.71313 0.24819,-2.16649 -0.39459,-4.54193 -0.39459,-6.96681 0,-2.42487 0.62918,-4.81338 0.36739,-6.99294 -0.26179,-2.17956 -1.41455,-4.15018 -2.54099,-5.73927 -2.25289,-3.17819 -6.22858,-4.24483 -4.78639,-4.24483 1.44219,0 4.78914,1.38028 6.73681,4.55847 1.94768,3.17819 2.49606,7.56882 2.49606,12.41857 0,4.84976 -0.54838,9.24039 -2.49606,12.41857 -1.94767,3.17819 -5.29462,4.55847 -6.73681,4.55847 z"
+         id="path4707"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssssss" />
+      <path
+         inkscape:export-ydpi="449.20001"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         inkscape:connector-curvature="0"
+         id="path4709"
+         d="m 231.95063,245.53017 0,3.35846 -2.36657,0 0,-3.35846 z"
+         style="opacity:1;fill:#b48048;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="449.20001"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\Weapons\crossbow_02_ loaded.png"
+         style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 231.04984,246.26332 0,1.83181 -2.50814,0 0,-1.83181 z"
+         id="path4711"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         inkscape:export-ydpi="449.20001"
+         inkscape:export-xdpi="449.20001"
+         inkscape:export-filename="D:\Clip-Bibliothek\Visual\Pictures\PNG Clips\Game Textures\crossbow_01.png"
+         y="-219.10719"
+         x="246.52724"
+         height="1.2115804"
+         width="1.3476305"
+         id="rect4727"
+         style="opacity:1;fill:#5f4b2e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="matrix(0.17071198,0,0,0.17071198,126.3326,207.72757)"
+         inkscape:export-ydpi="180"
+         inkscape:export-xdpi="180"
+         inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\crossbow_simple_loaded.png"
+         id="g4829">
+        <g
+           inkscape:export-ydpi="180.99829"
+           inkscape:export-xdpi="180.99829"
+           inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\crossbow_simple_loaded.png"
+           id="g4791"
+           transform="matrix(0,1.5316225,-1.0206794,0,255.26755,-388.33125)"
+           style="opacity:0.65">
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path4793"
+             d="m 403.94244,-287.40076 -2.55358,2.33573 0.58737,-1.80837 1.99631,-1.80244 z"
+             style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 404.88864,-287.40076 2.63029,2.42412 -0.8343,-1.99051 -1.82636,-1.70869 z"
+             id="path4795"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           inkscape:export-ydpi="180.99829"
+           inkscape:export-xdpi="180.99829"
+           inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\crossbow_simple_loaded.png"
+           id="g4797"
+           transform="matrix(0,1.5316225,-1.0206794,0,254.90668,-388.33125)"
+           style="opacity:0.65">
+          <path
+             sodipodi:nodetypes="ccccc"
+             style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 403.67199,-289.16983 -2.12087,2.18105 0.44778,-1.74586 1.7009,-1.71026 z"
+             id="path4799"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path4801"
+             d="m 405.15048,-289.16983 2.1399,2.18105 -0.75312,-1.99318 -1.41489,-1.46294 z"
+             style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+        <g
+           inkscape:export-ydpi="180.99829"
+           inkscape:export-xdpi="180.99829"
+           inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\crossbow_simple_loaded.png"
+           id="g4803"
+           transform="matrix(0,1.5316225,-1.0206794,0,254.47816,-388.33125)"
+           style="opacity:0.65">
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path4805"
+             d="m 403.88508,-291.13058 -2.39803,2.09266 0.48415,-1.69252 1.94735,-1.67522 z"
+             style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 404.9374,-291.13058 2.19608,1.96008 -0.4748,-1.74319 -1.75506,-1.49197 z"
+             id="path4807"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           inkscape:export-ydpi="180.99829"
+           inkscape:export-xdpi="180.99829"
+           inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\crossbow_simple_loaded.png"
+           transform="matrix(0,1.5316225,-1.0206794,0,256.10486,-388.33125)"
+           id="g4809"
+           style="opacity:0.65">
+          <path
+             style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 403.88508,-291.13058 -2.39803,2.09266 0.48415,-1.69252 1.94735,-1.67522 z"
+             id="path4811"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4813"
+             d="m 404.9374,-291.13058 2.19608,1.96008 -0.4748,-1.74319 -1.75506,-1.49197 z"
+             style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+        <rect
+           inkscape:export-ydpi="180.99829"
+           inkscape:export-xdpi="180.99829"
+           inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\crossbow_simple_loaded.png"
+           style="opacity:1;fill:#be9555;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4815"
+           width="3.5380132"
+           height="54.490566"
+           x="229.24313"
+           y="-598.88483"
+           transform="matrix(0,1,-1,0,0,0)" />
+        <g
+           inkscape:export-ydpi="180.99829"
+           inkscape:export-xdpi="180.99829"
+           inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\crossbow_simple_loaded.png"
+           id="g4817"
+           style="fill:#b3b3b3;fill-opacity:1"
+           transform="matrix(0,2.0259819,-1.3621253,0,140.37778,-588.27682)">
+          <rect
+             y="-337.14682"
+             x="403.13925"
+             height="1.7235727"
+             width="2.4748738"
+             id="rect4819"
+             style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="czzc"
+             inkscape:connector-curvature="0"
+             id="path4821"
+             d="m 404.3988,-344.66611 c 0.41911,2.12269 2.61753,6.53621 1.22131,7.53034 -1.39622,0.99413 -0.9466,0.99479 -2.48597,-0.004 -1.53937,-0.99879 0.83492,-5.40616 1.26466,-7.52634 z"
+             style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <g
+           inkscape:export-ydpi="180.99829"
+           inkscape:export-xdpi="180.99829"
+           inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\crossbow_simple_loaded.png"
+           id="g4823"
+           style="fill:#999999"
+           transform="matrix(0,2.0259819,-1.3621253,0,140.37778,-588.27682)">
+          <path
+             style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 404.42832,-337.14682 1.18581,0 0,1.72357 -1.18581,0 z"
+             id="path4825"
+             inkscape:connector-curvature="0" />
+          <path
+             style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 404.3988,-344.66611 c 0.41911,2.12269 2.62874,6.45029 1.22131,7.53034 0,0 -0.93476,0.0114 -1.1893,0.011 z"
+             id="path4827"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cscc" />
+        </g>
+      </g>
+      <g
+         inkscape:export-ydpi="412.45337"
+         inkscape:export-xdpi="412.45337"
+         inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\arrow01.png"
+         transform="matrix(0.17071198,0,0,0.17071198,114.50019,211.89436)"
+         id="g4850">
+        <g
+           style="opacity:0.65"
+           transform="matrix(0,1.5316225,-1.0206794,0,255.26755,-388.33125)"
+           id="g4852"
+           inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\crossbow_simple_loaded.png"
+           inkscape:export-xdpi="180.99829"
+           inkscape:export-ydpi="180.99829">
+          <path
+             style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 403.94244,-287.40076 -2.55358,2.33573 0.58737,-1.80837 1.99631,-1.80244 z"
+             id="path4854"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4856"
+             d="m 404.88864,-287.40076 2.63029,2.42412 -0.8343,-1.99051 -1.82636,-1.70869 z"
+             style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+        <g
+           style="opacity:0.65"
+           transform="matrix(0,1.5316225,-1.0206794,0,254.90668,-388.33125)"
+           id="g4858"
+           inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\crossbow_simple_loaded.png"
+           inkscape:export-xdpi="180.99829"
+           inkscape:export-ydpi="180.99829">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4860"
+             d="m 403.67199,-289.16983 -2.12087,2.18105 0.44778,-1.74586 1.7009,-1.71026 z"
+             style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 405.15048,-289.16983 2.1399,2.18105 -0.75312,-1.99318 -1.41489,-1.46294 z"
+             id="path4862"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+        <g
+           style="opacity:0.65"
+           transform="matrix(0,1.5316225,-1.0206794,0,254.47816,-388.33125)"
+           id="g4864"
+           inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\crossbow_simple_loaded.png"
+           inkscape:export-xdpi="180.99829"
+           inkscape:export-ydpi="180.99829">
+          <path
+             style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 403.88508,-291.13058 -2.39803,2.09266 0.48415,-1.69252 1.94735,-1.67522 z"
+             id="path4866"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4868"
+             d="m 404.9374,-291.13058 2.19608,1.96008 -0.4748,-1.74319 -1.75506,-1.49197 z"
+             style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+        <g
+           style="opacity:0.65"
+           id="g4870"
+           transform="matrix(0,1.5316225,-1.0206794,0,256.10486,-388.33125)"
+           inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\crossbow_simple_loaded.png"
+           inkscape:export-xdpi="180.99829"
+           inkscape:export-ydpi="180.99829">
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path4872"
+             d="m 403.88508,-291.13058 -2.39803,2.09266 0.48415,-1.69252 1.94735,-1.67522 z"
+             style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             style="fill:#f7951d;fill-opacity:0.79109593;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 404.9374,-291.13058 2.19608,1.96008 -0.4748,-1.74319 -1.75506,-1.49197 z"
+             id="path4874"
+             inkscape:connector-curvature="0" />
+        </g>
+        <rect
+           transform="matrix(0,1,-1,0,0,0)"
+           y="-598.88483"
+           x="229.24313"
+           height="54.490566"
+           width="3.5380132"
+           id="rect4876"
+           style="opacity:1;fill:#be9555;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\crossbow_simple_loaded.png"
+           inkscape:export-xdpi="180.99829"
+           inkscape:export-ydpi="180.99829" />
+        <g
+           transform="matrix(0,2.0259819,-1.3621253,0,140.37778,-588.27682)"
+           style="fill:#b3b3b3;fill-opacity:1"
+           id="g4878"
+           inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\crossbow_simple_loaded.png"
+           inkscape:export-xdpi="180.99829"
+           inkscape:export-ydpi="180.99829">
+          <rect
+             style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect4880"
+             width="2.4748738"
+             height="1.7235727"
+             x="403.13925"
+             y="-337.14682" />
+          <path
+             style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 404.3988,-344.66611 c 0.41911,2.12269 2.61753,6.53621 1.22131,7.53034 -1.39622,0.99413 -0.9466,0.99479 -2.48597,-0.004 -1.53937,-0.99879 0.83492,-5.40616 1.26466,-7.52634 z"
+             id="path4882"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="czzc" />
+        </g>
+        <g
+           transform="matrix(0,2.0259819,-1.3621253,0,140.37778,-588.27682)"
+           style="fill:#999999"
+           id="g4884"
+           inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\crossbow_simple_loaded.png"
+           inkscape:export-xdpi="180.99829"
+           inkscape:export-ydpi="180.99829">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4886"
+             d="m 404.42832,-337.14682 1.18581,0 0,1.72357 -1.18581,0 z"
+             style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cscc"
+             inkscape:connector-curvature="0"
+             id="path4888"
+             d="m 404.3988,-344.66611 c 0.41911,2.12269 2.62874,6.45029 1.22131,7.53034 0,0 -0.93476,0.0114 -1.1893,0.011 z"
+             style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4288"
+       d="m 383.25942,255.25654 1.29922,0 -0.52337,4.47176 -0.52334,4.47175 0.52334,4.47176 0.52337,4.47176 -1.29922,0 -2.17557,-4.47176 -0.52335,-4.47176 0.52335,-4.47175 z"
+       style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227" />
+    <g
+       id="g6046"
+       transform="matrix(0.24393742,0,0,0.24393742,256.80062,333.49372)">
+      <path
+         style="fill:#b3b3b3"
+         d="m 447.90783,127.06382 c 2.47844,-13.68723 2.82621,-28.536625 9.17704,-40.111645 6.54115,12.78881 6.39227,26.741095 9.5884,40.111645 1.99444,14.64978 1.84326,29.54321 1.5955,44.32604 -0.18601,11.0984 -2.60563,22.1234 -2.31234,33.21949 0.58174,22.00921 1.16348,44.01842 1.74522,66.02764 -7.07785,0 -14.1557,0 -21.23355,0 0.6787,-22.00922 1.35739,-44.01843 2.03609,-66.02764 0,0 -1.8846,-21.98927 -2.04643,-33.01381 -0.21799,-14.85017 -0.45658,-29.80283 1.45007,-44.53172 z"
+         id="path3552"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccsscccsc" />
+      <path
+         sodipodi:nodetypes="ccssccc"
+         inkscape:connector-curvature="0"
+         id="path3554"
+         d="m 457.08487,86.987465 c 6.54115,12.78881 6.39227,26.741095 9.5884,40.111645 1.99444,14.64978 1.84326,29.5432 1.5955,44.32604 -0.18601,11.0984 -2.60563,22.1234 -2.31234,33.21948 l 1.74522,66.02764 -10.61678,0 z"
+         style="fill:#cccccc" />
+      <path
+         style="fill:#808080"
+         d="m 457.07814,273.96476 12.00713,0 -3.49651,44.07289 -8.51062,0 z"
+         id="path3562"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3564"
+         d="m 458.32016,273.96476 -12.00713,0 3.4965,44.07289 8.51063,0 z"
+         style="fill:#808080" />
+      <rect
+         style="fill:#4d4d4d"
+         id="rect3556"
+         width="36.067963"
+         height="5.8174129"
+         x="439.19635"
+         y="270.63696" />
+      <path
+         style="fill:#4d4d4d"
+         d="m 443.85026,272.74667 c 0,3.71783 -1.4102,5.99667 -10.3259,1.34938 -8.91571,-4.64729 -21.96074,-14.46087 -21.96074,-18.1787 0,-3.71783 7.22761,6.01128 16.14332,10.65857 8.91571,4.64729 16.14332,2.45292 16.14332,6.17075 z"
+         id="path3558"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path3560"
+         d="m 470.8213,272.74667 c 0,3.71783 1.4102,5.99667 10.3259,1.34938 8.91571,-4.64729 21.96074,-14.46087 21.96074,-18.1787 0,-3.71783 -7.22761,6.01128 -16.14332,10.65857 -8.91571,4.64729 -16.14332,2.45292 -16.14332,6.17075 z"
+         style="fill:#4d4d4d" />
+      <path
+         style="fill:#808080"
+         d="m 470.93636,327.49877 c 0,7.49708 -6.07758,9.25545 -13.57466,9.25545 -7.49708,0 -13.57466,-1.75837 -13.57466,-9.25545 0,-7.49707 6.07758,-13.57465 13.57466,-13.57465 7.49708,0 13.57466,6.07758 13.57466,13.57465 z"
+         id="path3566"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path3568"
+         d="m 465.47061,326.62922 c 0,4.47843 -3.63048,5.5288 -8.10891,5.5288 -4.47843,0 -8.10891,-1.05037 -8.10891,-5.5288 0,-4.47843 3.63048,-8.1089 8.10891,-8.1089 4.47843,0 8.10891,3.63047 8.10891,8.1089 z"
+         style="fill:#800000" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect3570"
+         d="m 446.19054,280.50422 23,0 -2.65165,33.71079 -17.78509,0 z"
+         style="fill:#d38d5f" />
+      <path
+         sodipodi:nodetypes="cccsscccsc"
+         inkscape:connector-curvature="0"
+         id="path3581"
+         d="m 447.90783,127.06382 c 2.47844,-13.68723 2.82621,-28.536625 9.17704,-40.111645 6.54115,12.78881 6.39227,26.741095 9.5884,40.111645 1.99444,14.64978 1.84326,29.54321 1.5955,44.32604 -0.18601,11.0984 -2.60563,22.1234 -2.31234,33.21949 0.58174,22.00921 1.16348,44.01842 1.74522,66.02764 -7.07785,0 -14.1557,0 -21.23355,0 0.6787,-22.00922 1.35739,-44.01843 2.03609,-66.02764 0,0 -1.8846,-21.98927 -2.04643,-33.01381 -0.21799,-14.85017 -0.45658,-29.80283 1.45007,-44.53172 z"
+         style="fill:#b3b3b3" />
+      <path
+         style="fill:#cccccc"
+         d="m 457.08487,86.987465 c 6.54115,12.78881 6.39227,26.741095 9.5884,40.111645 1.99444,14.64978 1.84326,29.5432 1.5955,44.32604 -0.18601,11.0984 -2.60563,22.1234 -2.31234,33.21948 l 1.74522,66.02764 -10.61678,0 z"
+         id="path3583"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccssccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3585"
+         d="m 457.07814,273.96476 12.00713,0 -3.49651,44.07289 -8.51062,0 z"
+         style="fill:#808080" />
+      <path
+         style="fill:#808080"
+         d="m 458.32016,273.96476 -12.00713,0 3.4965,44.07289 8.51063,0 z"
+         id="path3587"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <rect
+         y="270.63696"
+         x="439.19635"
+         height="5.8174129"
+         width="36.067963"
+         id="rect3589"
+         style="fill:#4d4d4d" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path3591"
+         d="m 443.85026,272.74667 c 0,3.71783 -1.4102,5.99667 -10.3259,1.34938 -8.91571,-4.64729 -21.96074,-14.46087 -21.96074,-18.1787 0,-3.71783 7.22761,6.01128 16.14332,10.65857 8.91571,4.64729 16.14332,2.45292 16.14332,6.17075 z"
+         style="fill:#4d4d4d" />
+      <path
+         style="fill:#4d4d4d"
+         d="m 470.8213,272.74667 c 0,3.71783 1.4102,5.99667 10.3259,1.34938 8.91571,-4.64729 21.96074,-14.46087 21.96074,-18.1787 0,-3.71783 -7.22761,6.01128 -16.14332,10.65857 -8.91571,4.64729 -16.14332,2.45292 -16.14332,6.17075 z"
+         id="path3593"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path3595"
+         d="m 470.93636,327.49877 c 0,7.49708 -6.07758,9.25545 -13.57466,9.25545 -7.49708,0 -13.57466,-1.75837 -13.57466,-9.25545 0,-7.49707 6.07758,-13.57465 13.57466,-13.57465 7.49708,0 13.57466,6.07758 13.57466,13.57465 z"
+         style="fill:#808080" />
+      <path
+         style="fill:#800000"
+         d="m 465.47061,326.62922 c 0,4.47843 -3.63048,5.5288 -8.10891,5.5288 -4.47843,0 -8.10891,-1.05037 -8.10891,-5.5288 0,-4.47843 3.63048,-8.1089 8.10891,-8.1089 4.47843,0 8.10891,3.63047 8.10891,8.1089 z"
+         id="path3597"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+      <path
+         style="fill:#d38d5f"
+         d="m 446.19054,280.50422 23,0 -2.65165,33.71079 -17.78509,0 z"
+         id="path3599"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <rect
+       y="292.38596"
+       x="321.61237"
+       height="145.16982"
+       width="3.1687281"
+       id="rect5118"
+       style="opacity:1;fill:#502d16;fill-opacity:1;stroke:none" />
+    <g
+       id="g5120"
+       transform="matrix(0.28185614,0,0,0.28185614,220.81982,258.74093)">
+      <path
+         style="opacity:1;fill:#333333;fill-opacity:1;stroke:none"
+         d="m 358.25923,63.238383 10.13942,0.220275 1.73538,56.977952 -13.8198,0 z"
+         id="path5122"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="opacity:1;fill:#333333;fill-opacity:1;stroke:none"
+         d="m 353.33456,11.949338 10.09261,-37.898784 10.09261,37.898784 c 3.8502,14.45788 12.06318,32.848487 4.11944,44.695849 l -9.25306,13.8001 -6.19482,0 -3.90316,0 -9.48499,-13.8001 c -8.4822,-12.341094 0.67777,-30.225188 4.53137,-44.695849 z"
+         id="path5124"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="scsscccss" />
+      <path
+         style="opacity:1;fill:#333333;fill-opacity:1;stroke:none"
+         d="m 347.25073,80.523666 31.6736,0 0,8.884057 c 0,0 -3.62776,-1.010997 -5.39313,-0.614541 -2.06415,0.463554 -3.35858,2.765991 -5.39313,3.345835 -1.7066,0.486379 -5.32367,0 -5.32367,0 0,0 -3.62291,0.506435 -5.32367,0 -1.95398,-0.581836 -3.13478,-2.881674 -5.12,-3.345835 -1.67378,-0.391342 -5.12,0.614541 -5.12,0.614541 z"
+         id="path5126"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccsscsscc" />
+    </g>
+    <g
+       id="g5128"
+       transform="matrix(0.28185614,0,0,0.28185614,203.3242,258.74093)"
+       style="fill:#4d4d4d;fill-opacity:1">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path5130"
+         d="m 425.84598,63.34852 -6.10602,0.110138 -1.73538,56.977952 8.04277,0 -0.0524,-28.544045 z"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cssccc"
+         inkscape:connector-curvature="0"
+         id="path5132"
+         d="m 425.49809,-25.71345 -10.87926,37.662788 c -4.1521,14.374089 -12.06318,32.848487 -4.11944,44.695849 l 9.25306,13.8001 6.13447,0 z"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccsscc"
+         inkscape:connector-curvature="0"
+         id="path5134"
+         d="m 425.05108,80.523666 -15.8368,0 0,8.884057 c 0,0 3.62776,-1.010997 5.39313,-0.614541 2.06415,0.463554 3.08046,2.98849 5.11501,3.568334 1.7066,0.486379 5.60179,-0.222499 5.60179,-0.222499 z"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="matrix(0,0.31112009,-0.31112009,0,467.86672,179.879)"
+       id="g4368">
+      <path
+         sodipodi:nodetypes="cccsscccsc"
+         inkscape:connector-curvature="0"
+         id="path4370"
+         d="m 447.90783,127.06382 c 2.47844,-13.68723 2.82621,-28.536625 9.17704,-40.111645 6.54115,12.78881 6.39227,26.741095 9.5884,40.111645 1.99444,14.64978 1.84326,29.54321 1.5955,44.32604 -0.18601,11.0984 -2.60563,22.1234 -2.31234,33.21949 0.58174,22.00921 1.16348,44.01842 1.74522,66.02764 -7.07785,0 -14.1557,0 -21.23355,0 0.6787,-22.00922 1.35739,-44.01843 2.03609,-66.02764 0,0 -1.8846,-21.98927 -2.04643,-33.01381 -0.21799,-14.85017 -0.45658,-29.80283 1.45007,-44.53172 z"
+         style="fill:#b3b3b3" />
+      <path
+         style="fill:#cccccc"
+         d="m 457.08487,86.987465 c 6.54115,12.78881 6.39227,26.741095 9.5884,40.111645 1.99444,14.64978 1.84326,29.5432 1.5955,44.32604 -0.18601,11.0984 -2.60563,22.1234 -2.31234,33.21948 l 1.74522,66.02764 -10.61678,0 z"
+         id="path4372"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccssccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4374"
+         d="m 457.07814,273.96476 12.00713,0 -3.49651,44.07289 -8.51062,0 z"
+         style="fill:#808080" />
+      <path
+         style="fill:#808080"
+         d="m 458.32016,273.96476 -12.00713,0 3.4965,44.07289 8.51063,0 z"
+         id="path4376"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <rect
+         y="270.63696"
+         x="439.19635"
+         height="5.8174129"
+         width="36.067963"
+         id="rect4378"
+         style="fill:#4d4d4d" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path4380"
+         d="m 443.85026,272.74667 c 0,3.71783 -1.4102,5.99667 -10.3259,1.34938 -8.91571,-4.64729 -21.96074,-14.46087 -21.96074,-18.1787 0,-3.71783 7.22761,6.01128 16.14332,10.65857 8.91571,4.64729 16.14332,2.45292 16.14332,6.17075 z"
+         style="fill:#4d4d4d" />
+      <path
+         style="fill:#4d4d4d"
+         d="m 470.8213,272.74667 c 0,3.71783 1.4102,5.99667 10.3259,1.34938 8.91571,-4.64729 21.96074,-14.46087 21.96074,-18.1787 0,-3.71783 -7.22761,6.01128 -16.14332,10.65857 -8.91571,4.64729 -16.14332,2.45292 -16.14332,6.17075 z"
+         id="path4382"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path4384"
+         d="m 470.93636,327.49877 c 0,7.49708 -6.07758,9.25545 -13.57466,9.25545 -7.49708,0 -13.57466,-1.75837 -13.57466,-9.25545 0,-7.49707 6.07758,-13.57465 13.57466,-13.57465 7.49708,0 13.57466,6.07758 13.57466,13.57465 z"
+         style="fill:#808080" />
+      <path
+         style="fill:#800000"
+         d="m 465.47061,326.62922 c 0,4.47843 -3.63048,5.5288 -8.10891,5.5288 -4.47843,0 -8.10891,-1.05037 -8.10891,-5.5288 0,-4.47843 3.63048,-8.1089 8.10891,-8.1089 4.47843,0 8.10891,3.63047 8.10891,8.1089 z"
+         id="path4386"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+      <path
+         style="fill:#d38d5f"
+         d="m 446.19054,280.50422 23,0 -2.65165,33.71079 -17.78509,0 z"
+         id="path4388"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#b3b3b3"
+         d="m 447.90783,127.06382 c 2.47844,-13.68723 2.82621,-28.536625 9.17704,-40.111645 6.54115,12.78881 6.39227,26.741095 9.5884,40.111645 1.99444,14.64978 1.84326,29.54321 1.5955,44.32604 -0.18601,11.0984 -2.60563,22.1234 -2.31234,33.21949 0.58174,22.00921 1.16348,44.01842 1.74522,66.02764 -7.07785,0 -14.1557,0 -21.23355,0 0.6787,-22.00922 1.35739,-44.01843 2.03609,-66.02764 0,0 -1.8846,-21.98927 -2.04643,-33.01381 -0.21799,-14.85017 -0.45658,-29.80283 1.45007,-44.53172 z"
+         id="path4390"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccsscccsc" />
+      <path
+         sodipodi:nodetypes="ccssccc"
+         inkscape:connector-curvature="0"
+         id="path4392"
+         d="m 457.08487,86.987465 c 6.54115,12.78881 6.39227,26.741095 9.5884,40.111645 1.99444,14.64978 1.84326,29.5432 1.5955,44.32604 -0.18601,11.0984 -2.60563,22.1234 -2.31234,33.21948 l 1.74522,66.02764 -10.61678,0 z"
+         style="fill:#cccccc" />
+      <path
+         style="fill:#808080"
+         d="m 457.07814,273.96476 12.00713,0 -3.49651,44.07289 -8.51062,0 z"
+         id="path4394"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4396"
+         d="m 458.32016,273.96476 -12.00713,0 3.4965,44.07289 8.51063,0 z"
+         style="fill:#808080" />
+      <rect
+         style="fill:#4d4d4d"
+         id="rect4398"
+         width="36.067963"
+         height="5.8174129"
+         x="439.19635"
+         y="270.63696" />
+      <path
+         style="fill:#4d4d4d"
+         d="m 443.85026,272.74667 c 0,3.71783 -1.4102,5.99667 -10.3259,1.34938 -8.91571,-4.64729 -21.96074,-14.46087 -21.96074,-18.1787 0,-3.71783 7.22761,6.01128 16.14332,10.65857 8.91571,4.64729 16.14332,2.45292 16.14332,6.17075 z"
+         id="path4400"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path4402"
+         d="m 470.8213,272.74667 c 0,3.71783 1.4102,5.99667 10.3259,1.34938 8.91571,-4.64729 21.96074,-14.46087 21.96074,-18.1787 0,-3.71783 -7.22761,6.01128 -16.14332,10.65857 -8.91571,4.64729 -16.14332,2.45292 -16.14332,6.17075 z"
+         style="fill:#4d4d4d" />
+      <path
+         style="fill:#808080"
+         d="m 470.93636,327.49877 c 0,7.49708 -6.07758,9.25545 -13.57466,9.25545 -7.49708,0 -13.57466,-1.75837 -13.57466,-9.25545 0,-7.49707 6.07758,-13.57465 13.57466,-13.57465 7.49708,0 13.57466,6.07758 13.57466,13.57465 z"
+         id="path4404"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path4406"
+         d="m 465.47061,326.62922 c 0,4.47843 -3.63048,5.5288 -8.10891,5.5288 -4.47843,0 -8.10891,-1.05037 -8.10891,-5.5288 0,-4.47843 3.63048,-8.1089 8.10891,-8.1089 4.47843,0 8.10891,3.63047 8.10891,8.1089 z"
+         style="fill:#800000" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4408"
+         d="m 446.19054,280.50422 23,0 -2.65165,33.71079 -17.78509,0 z"
+         style="fill:#d38d5f" />
+    </g>
+    <g
+       id="g4425"
+       transform="matrix(0.20113923,0,0,0.20113923,337.74657,136.40342)">
+      <path
+         style="opacity:1;fill:#552200;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227"
+         d="m 155.09282,761.69872 c 20.32723,1.85465 40.65447,3.12532 60.9817,0 l 0,20.07178 c -20.74706,-2.09916 -40.89779,-1.21663 -60.9817,0 z"
+         id="path4283"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="rect4278"
+         d="m 220,758.53827 c 59.51936,3.21466 117.68772,3.2967 177.06514,1.01016 38.61822,-1.54709 70.58573,4.62292 107.80232,12.18618 -36.28108,9.8287 -70.53322,11.80184 -107.80232,11.93365 C 338.05886,780.4836 279.0438,782.78394 220,783.92079 l 0,-12.18618 z"
+         style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227" />
+      <path
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227"
+         d="m 504.86746,771.73461 c -36.28108,9.8287 -70.53322,11.80184 -107.80232,11.93365 C 338.05886,780.4836 279.0438,782.78394 220,783.92079 l 0,-12.18618 z"
+         id="path4410"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="rect4290"
+         d="m 217.06549,730.15033 13.38235,-5.89286 c -7.19501,17.2291 -16.04279,39.66792 -1.89775,47.47717 -15.82964,7.99325 -2.95576,32.97116 1.89775,47.47717 l -13.38235,-3.92857 c -12.23635,-34.59117 -8.31439,-53.26505 0,-85.13291 z"
+         style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4413"
+         d="m 144.96066,761.69872 10.47407,0 0,20.07178 -10.47407,0 z"
+         style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227" />
+    </g>
+    <g
+       id="g4432"
+       transform="matrix(0.39375152,0,0,0.39375152,555.46311,-494.66023)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227"
+         id="rect4471"
+         width="400"
+         height="400"
+         x="-706.15546"
+         y="1464.4656"
+         inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\weapons\sword01.png"
+         inkscape:export-xdpi="228.57057"
+         inkscape:export-ydpi="228.57057" />
+      <g
+         id="g4463"
+         transform="matrix(1.2103554,0,0,1.2103554,-713.88474,690.56741)"
+         inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\weapons\sword01.png"
+         inkscape:export-xdpi="228.57057"
+         inkscape:export-ydpi="228.57057">
+        <path
+           style="opacity:1;fill:#502d16;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227"
+           d="m 157.49635,958.33583 c 2.85964,-11.59974 3.55486,-11.40814 3.40015,-23.00789 -0.15471,-11.59974 -1.15936,-34.99082 -1.69948,-46.59056 l 12.42962,0 12.42962,0 c -0.51488,11.59998 -1.65265,35.16428 -1.92275,46.85058 -0.2701,11.68629 0.32748,11.49457 3.28329,22.74787 l -13.96023,0 z"
+           id="path4434"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cscccsccc" />
+        <g
+           transform="matrix(1,0,0,0.86041024,0,123.51068)"
+           id="g4456">
+          <path
+             style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227"
+             d="m 158.4303,884.8119 c 3.21466,-59.51936 3.2967,-117.68772 1.01016,-177.06514 -1.54709,-38.61822 4.62292,-70.58573 12.18618,-107.80232 9.8287,36.28108 11.80184,70.53322 11.93365,107.80232 -3.18466,59.00628 -0.88432,118.02134 0.25253,177.06514 l -12.18618,0 z"
+             id="path4436"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path4438"
+             d="m 171.62664,599.94444 c 9.8287,36.28108 11.80184,70.53322 11.93365,107.80232 -3.18466,59.00628 -0.88432,118.02134 0.25253,177.06514 l -12.18618,0 z"
+             style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227" />
+        </g>
+        <path
+           sodipodi:nodetypes="cccccc"
+           inkscape:connector-curvature="0"
+           id="path4440"
+           d="m 130.04236,887.74641 -5.89286,-13.38235 c 17.2291,7.19501 39.66792,16.04279 47.47717,1.89775 7.99325,15.82964 32.97116,2.95576 47.47717,-1.89775 l -3.92857,13.38235 c -34.59117,12.23635 -53.26505,8.31439 -85.13291,0 z"
+           style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4460"
+           d="m 186.34066,959.70562 a 14.714022,9.8616283 0 0 1 -14.71403,9.86162 14.714022,9.8616283 0 0 1 -14.71402,-9.86162 14.714022,9.8616283 0 0 1 14.71402,-9.86163 14.714022,9.8616283 0 0 1 14.71403,9.86163 z"
+           style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227" />
+      </g>
+    </g>
+    <g
+       id="g4352"
+       transform="matrix(0.10074922,0,0,0.10074922,-115.59803,190.99417)">
+      <path
+         sodipodi:nodetypes="ccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect4345"
+         d="m -430.87567,-1099.2452 119.75563,0 119.75564,0 0,119.75562 0,119.75562 -44.34511,0 -0.39195,-54.04316 -75.79983,-1.76777 -74.79769,1.51523 0.2394,54.2957 -45.19734,0 0.39062,-119.75562 z"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227"
+         transform="matrix(0,-1,1,0,0,0)" />
+      <rect
+         y="-916.08936"
+         x="-386.49567"
+         height="49.789608"
+         width="150.75122"
+         id="rect4347"
+         style="opacity:1;fill:#e9c6af;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227"
+         inkscape:export-xdpi="296.47055"
+         inkscape:export-ydpi="296.47055"
+         transform="matrix(0,-1,1,0,0,0)"
+         inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\def01.png" />
+      <rect
+         y="293.69492"
+         x="-920.75403"
+         height="34.850262"
+         width="34.850266"
+         id="rect4350"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227" />
+    </g>
+    <g
+       transform="matrix(0,0.16747735,-0.16747735,0,770.99619,377.86986)"
+       id="g4428"
+       inkscape:export-filename="D:\Programming\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\weapons\sword01_withHand.png"
+       inkscape:export-xdpi="537.38611"
+       inkscape:export-ydpi="537.38611">
+      <rect
+         inkscape:export-ydpi="228.57057"
+         inkscape:export-xdpi="228.57057"
+         inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\weapons\sword01.png"
+         y="1464.4656"
+         x="-706.15546"
+         height="400"
+         width="400"
+         id="rect4430"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227" />
+      <g
+         inkscape:export-ydpi="228.57057"
+         inkscape:export-xdpi="228.57057"
+         inkscape:export-filename="D:\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\weapons\sword01.png"
+         transform="matrix(1.2103554,0,0,1.2103554,-713.88474,690.56741)"
+         id="g4433">
+        <path
+           sodipodi:nodetypes="cscccsccc"
+           inkscape:connector-curvature="0"
+           id="path4435"
+           d="m 157.49635,958.33583 c 2.85964,-11.59974 3.55486,-11.40814 3.40015,-23.00789 -0.15471,-11.59974 -1.15936,-34.99082 -1.69948,-46.59056 l 12.42962,0 12.42962,0 c -0.51488,11.59998 -1.65265,35.16428 -1.92275,46.85058 -0.2701,11.68629 0.32748,11.49457 3.28329,22.74787 l -13.96023,0 z"
+           style="opacity:1;fill:#502d16;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227" />
+        <g
+           id="g4437"
+           transform="matrix(1,0,0,0.86041024,0,123.51068)">
+          <path
+             sodipodi:nodetypes="ccccccc"
+             inkscape:connector-curvature="0"
+             id="path4439"
+             d="m 158.4303,884.8119 c 3.21466,-59.51936 3.2967,-117.68772 1.01016,-177.06514 -1.54709,-38.61822 4.62292,-70.58573 12.18618,-107.80232 9.8287,36.28108 11.80184,70.53322 11.93365,107.80232 -3.18466,59.00628 -0.88432,118.02134 0.25253,177.06514 l -12.18618,0 z"
+             style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227" />
+          <path
+             style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227"
+             d="m 171.62664,599.94444 c 9.8287,36.28108 11.80184,70.53322 11.93365,107.80232 -3.18466,59.00628 -0.88432,118.02134 0.25253,177.06514 l -12.18618,0 z"
+             id="path4441"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+        <path
+           style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227"
+           d="m 130.04236,887.74641 -5.89286,-13.38235 c 17.2291,7.19501 39.66792,16.04279 47.47717,1.89775 7.99325,15.82964 32.97116,2.95576 47.47717,-1.89775 l -3.92857,13.38235 c -34.59117,12.23635 -53.26505,8.31439 -85.13291,0 z"
+           id="path4443"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227"
+           d="m 186.34066,959.70562 a 14.714022,9.8616283 0 0 1 -14.71403,9.86162 14.714022,9.8616283 0 0 1 -14.71402,-9.86162 14.714022,9.8616283 0 0 1 14.71402,-9.86163 14.714022,9.8616283 0 0 1 14.71403,9.86163 z"
+           id="path4445"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <circle
+       style="opacity:1;fill:#e9c6af;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92903227"
+       id="path4447"
+       cx="293.10031"
+       cy="-469.43924"
+       r="3.9875405"
+       inkscape:export-filename="D:\Programming\ProcessingFiles\LotR Tower Defense\Tower_Defense\source\graphics\weapons\sword01_withHand.png"
+       inkscape:export-xdpi="537.38611"
+       inkscape:export-ydpi="537.38611"
+       transform="matrix(0,1,-1,0,0,0)" />
+  </g>
+</svg>

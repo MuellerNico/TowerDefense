@@ -1,0 +1,66 @@
+class Archer extends RangedUnit {  
+
+  Archer(float x_, float y_) {
+    super(x_, y_);  
+    
+    weapon = new Crossbow(this);    
+    
+    maxHealth = 100;
+    health = maxHealth;
+    attackDamage = 80;
+    attackDelay = 1.5; //in sec
+    //attackRange = 600;
+    focusRange = 700;
+    
+    standardOrientation = new PVector(1, 0);
+    direction = standardOrientation.copy().normalize(); //not rly needed but maybe later
+        
+    image = loadImage("source/graphics/def01.png");
+  }
+
+  void update() {  //TODO: switch targets when closer
+    super.update();
+    Entity e = focusedEntity;
+    if (isFocused == false) {
+      searchFocus();
+      adjustRotation(standardOrientation);
+    } else if (position.dist(e.position) >= focusRange || e.health <= 0) { //out of range
+      isFocused = false;
+    } else { // in range
+      adjustRotation(PVector.sub(e.position, position));
+      searchFocus();
+      if(position.dist(e.position) <= weapon.range){
+        attack();
+      }
+    }
+  }
+
+  void attack() {
+    if (millis()-lastAttack > attackDelay*1000) {      
+      weapon.attack();
+      //Arrow a = new Arrow(this);
+      lastAttack = millis();
+    }
+  }
+
+  void adjustRotation(PVector goal) { //TODO: problem when crossing x axis on the left side; TEMP: solution without actual rotation 
+    direction = goal.copy();
+    direction.normalize();
+  }
+
+  /*void displayWeapon() {
+    image(weaponImage, size*3/4, size/3, weaponSize, weaponSize);
+  }*/
+
+  void searchFocus() { // nearest
+    float dist = focusRange;
+    for (Entity e : enemies) {
+      float newdist = position.dist(e.position);
+      if (newdist <= dist) {
+        dist = newdist;
+        focusedEntity = e;
+        isFocused = true;
+      }
+    }
+  }
+}
